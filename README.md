@@ -1,4 +1,4 @@
-# BRViT SEED core modules
+# BRViT 
 
 This directory contains a module-level reference implementation of BRViT.
 
