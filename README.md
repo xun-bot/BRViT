@@ -1,8 +1,6 @@
 # BRViT SEED core modules
 
-This directory contains a module-level reference implementation for the SEED
-portion of BRViT. It is intended to disclose the principal method components
-without providing a complete experiment package.
+This directory contains a module-level reference implementation of BRViT.
 
 Included modules:
 
